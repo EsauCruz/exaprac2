@@ -5,10 +5,10 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 /**
- * Nombre de la clase:
- * Fecha: 
- * Version:
- * CopyRight: 
+ * Nombre de la clase: josuecruz
+ * Fecha: 18-04-2018
+ * Version: 1.0
+ * CopyRight: ITCA-FEPADE
  * @author Laboratorio2
  */
 public class JosueCruz 
