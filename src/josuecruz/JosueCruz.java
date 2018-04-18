@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  * Fecha: 18-04-2018
  * Version: 1.0
  * CopyRight: ITCA-FEPADE
- * @author Laboratorio2
+ * @author Josue Cruz
  */
 public class JosueCruz 
 {
