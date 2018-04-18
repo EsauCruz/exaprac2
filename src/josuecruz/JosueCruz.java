@@ -33,7 +33,7 @@ public class JosueCruz
         int puntero=0;
         double contador=0;
         int indicador=1;
-        double numero=1;
+        int numero=1;
         double promedio[]=new double[100];
         int aprobados=0;
         int reprobados=0;
