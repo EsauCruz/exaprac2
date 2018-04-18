@@ -37,7 +37,6 @@ public class JosueCruz
         double promedio[]=new double[100];
         int aprobados=0;
         int reprobados=0;
-        double menor=0;
         
         do
         {
